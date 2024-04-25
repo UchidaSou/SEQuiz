@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicQuizGame</string>
+    <string name="score_text">スコアボード</string>
+    <string name="playgame_text">プレイ</string>
+    <string name="title_text">音色クイズ</string>
+    <string name="level_text">レベル選択</string>
+    <string name="Genre_Text">ジャンル選択</string>
+    <string name="back_text">もどる</string>
+    <string name="startgame_text">ゲームスタート</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
